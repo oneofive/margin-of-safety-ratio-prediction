@@ -1,5 +1,7 @@
 # 프로젝트 소개
 한국지방세연구원에서 주관한 2024년 제1회 지방세 미래정책 대학생 아이디어 공모전에 사용한 선형회귀 모델입니댜. (장려상 수상)
+
+
 ![local tax project](https://github.com/user-attachments/assets/5c5efcad-0d76-4c2b-b6da-a5d19d6e172c)
 
   
